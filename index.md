@@ -2,6 +2,8 @@
 
 Born in 1982. A crossover between GenX and Millennials. I like to keep things informal and yet, get straight to the point. Reach out to me if you think I can help you. With my 40th Birthday fast approaching, I realise how short life is, and that in serving others there is satisfaction, respect and $$ (though sometimes the $$ doesn’t materialise.. which is fine *eyeroll*)
 
+![A test image](Ahsan-Photo-New.jpg)
+
 Below some free tips from Github Pages:
 
 You can use the [editor on GitHub](https://github.com/ahsanmohiuddin2021/ahsanmohiuddin.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
