@@ -7,7 +7,7 @@ img {
 </head>
 ## Welcome to Ahsan's Website
 
-<img src="FailBetter.jpg" alt="Avatar" / >
+<img src="FailBetter.jpg" alt="Avatar">
   
 Below some free tips from Github Pages:
 
