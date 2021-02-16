@@ -9,7 +9,7 @@ img {
 
 Born in 1982. A crossover between GenX and Millennials. I like to keep things informal and yet, get straight to the point. Reach out to me if you think I can help you. With my 40th Birthday fast approaching, I realise how short life is, and that in serving others there is satisfaction, respect and &#36;&#36;&#36; (though sometimes the &#36;&#36; doesn’t materialise.. coz "Journey is the reward" right??)
 
-<!--><img src="Ahsan-Photo-New.jpg" alt="Avatar" -->
+<!--img src="Ahsan-Photo-New.jpg" alt="Avatar"-->
   
 Below some free tips from Github Pages:
 
